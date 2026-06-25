@@ -12,9 +12,7 @@ This work serves as a final project for the **Engineering Economics & Project Ma
 ## Read the Full Report
 You can access the full PDF document here:
 
-<a href="https://github.com/mashaalzulfikar/Case-Study-Investigating-the-Causes-of-Downfall-of-Finance-IT-Organizations/raw/main/21CS%20055,%20077,%20105%204th%20Semester%20EEPM%20Final%20Project.pdf" target="_blank" rel="noopener noreferrer">
-  Click here to view the Final Project PDF in a new tab
-</a>
+[**Download/View Final Project Report (PDF)**](https://github.com/mashaalzulfikar/Case-Study-Investigating-the-Causes-of-Downfall-of-Finance-IT-Organizations/raw/main/21CS%20055,%20077,%20105%204th%20Semester%20EEPM%20Final%20Project.pdf)
 
 ---
 *Created as part of the Engineering Economics & Project Management curriculum.*
