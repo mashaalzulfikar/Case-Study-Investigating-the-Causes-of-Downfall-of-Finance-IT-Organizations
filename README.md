@@ -1,5 +1,8 @@
 # Case Study: Investigating the Causes of Downfall of Finance IT Organizations
 
+<img width="620" height="802" alt="image" src="https://github.com/user-attachments/assets/9d16aade-1bcf-45aa-b525-60b68bbed4a0" />
+
+
 ## Project Overview
 This project explores the critical intersection of financial instability and technological decline. By analyzing major historical failures—including the 2008 US Housing Market collapse and the downfalls of tech giants like Yahoo and Nokia—this study draws vital lessons on risk management, economic stability, and project governance.
 
